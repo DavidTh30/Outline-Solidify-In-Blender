@@ -1,6 +1,8 @@
 # Outline-Solidify-In-Blender
 Outline Solidify In Blender
 
+More about Thai font: https://github.com/DavidTh30/FontForBlender_Fix
+
 <img src="Blender%204.3/Outline_Solidify_Object01.png" width="200" height="200">
 
 ![](Blender%204.3/Outline_Solidify_Object01.png)
